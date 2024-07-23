@@ -1,0 +1,76 @@
+{
+  "title": "Pricing",
+  "desc": "Maybe there should be some long text about prices? Who knows what text should be here, feel free to fill it in",
+  "text": {
+    "first": {
+      "name": "Basic",
+      "price": "$9",
+      "duration": "Monthly",
+      "features": [
+        "[Feature 1]",
+        "[Feature 2]",
+        "[Feature 3]"
+      ],
+      "action": {
+        "name": "Start Now",
+        "href": "/home"
+      }
+    },
+    "second": {
+      "name": "Standard",
+      "price": "$19",
+      "duration": "Monthly",
+      "features": [
+        "[Feature 1]",
+        "[Feature 2]",
+        "[Feature 3]"
+      ],
+      "action": {
+        "name": "Start Now",
+        "href": "/home"
+      }
+    },
+    "third": {
+      "name": "Premium",
+      "price": "$29",
+      "duration": "Monthly",
+      "features": [
+        "[Feature 1]",
+        "[Feature 2]",
+        "[Feature 3]"
+      ],
+      "action": {
+        "name": "Start Now",
+        "href": "/home"
+      }
+    },
+    "fourth": {
+      "name": "Pro",
+      "price": "$49",
+      "duration": "Monthly",
+      "features": [
+        "[Feature 1]",
+        "[Feature 2]",
+        "[Feature 3]"
+      ],
+      "action": {
+        "name": "Start Now",
+        "href": "/home"
+      }
+    },
+    "fifth": {
+      "name": "Enterprise",
+      "price": "$99",
+      "duration": "Monthly",
+      "features": [
+        "[Feature 1]",
+        "[Feature 2]",
+        "[Feature 3]"
+      ],
+      "action": {
+        "name": "Start Now",
+        "href": "/home"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿@inject HttpClient Http
+
+@for (int i = 1; i <= 2; i++)
+{
+    <MudAnimate Selector="@($"._fadeIn{i}")"
+                Duration="1"
+                AnimationType="AnimationType.Fade"
+                Value="1"
+                IterationCount="1"
+                Delay="@(i * 0.25)"
+                AnimationTiming="AnimationTiming.Ease"
+                AnimationDirection="AnimationDirection.Normal"
+                AnimationFillMode="AnimationFillMode.Forwards" />
+}
+
+<Router AppAssembly="@typeof(App).Assembly">
+    <Found Context="routeData">
+        <RouteView RouteData="@routeData" DefaultLayout="@typeof(MainLayout)" />
+        <FocusOnNavigate RouteData="@routeData" Selector="h1" />
+    </Found>
+    <NotFound>
+        <PageTitle>Not found</PageTitle>
+        <LayoutView Layout="@typeof(MainLayout)">
+            <MudText Align="Align.Center" Class="_fadeIn1" Style="font-size: calc(2vw + 2vh); opacity: 0;" GutterBottom="true">@data?.title</MudText>
+            <MudText Align="Align.Center" Class="_fadeIn2" Style="font-size: calc(1vw + 1vh); opacity: 0;">@data?.desc</MudText>
+        </LayoutView>
+    </NotFound>
+</Router>
+
+@code {
+    private Json? data;
+
+    protected override async Task OnInitializedAsync()
+    {
+        data = await Http.GetFromJsonAsync<Json>("json/error.json");
+    }
+
+    public class Json
+    {
+        public string title { get; set; } = string.Empty;
+        public string desc { get; set; } = string.Empty;
+    }
+}

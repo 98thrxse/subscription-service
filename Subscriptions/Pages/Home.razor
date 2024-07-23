@@ -1,0 +1,113 @@
+﻿@page "/home"
+@inject HttpClient Http
+
+<PageTitle>@data?.title</PageTitle>
+
+@for (int i = 1; i <= 6; i++)
+{
+    <MudAnimate Selector="@($"._fadeIn{i}")"
+                Duration="1"
+                AnimationType="AnimationType.Fade"
+                Value="1"
+                IterationCount="1"
+                Delay="@(i * 0.25)"
+                AnimationTiming="AnimationTiming.Ease"
+                AnimationDirection="AnimationDirection.Normal"
+                AnimationFillMode="AnimationFillMode.Forwards" />
+}
+
+<MudContainer>
+    <MudGrid>
+        <MudItem xs="12" sm="6">
+            <MudGrid>
+                @if (blocks.Any())
+                {
+                    @for (int i = 0; i < 2; i++)
+                    {
+                        string text = blocks[i];
+                        <MudItem xs="12" Class="@($"_fadeIn{i + 1}")" Style="opacity:0;">
+                            <MudPaper Elevation="2" Class="pa-4 overflow-hidden d-flex justify-center align-center" Height="200px">
+                                <MudText Style="font-size: calc(1vw + 2vh);text-align:center;">@text</MudText>
+                            </MudPaper>
+                        </MudItem>
+                    }
+                }
+            </MudGrid>
+        </MudItem>
+        <MudItem xs="12" sm="6" Class="_fadeIn3" Style="opacity:0;">
+            <MudPaper Elevation="2" Class="pa-4 overflow-hidden d-flex justify-center align-center" Height="424px">
+                <MudImage Src="@data?.images.third" Alt="Person" Height="424" />
+            </MudPaper>
+        </MudItem>
+        @if (blocks.Any())
+        {
+            @for (int i = 2; i < blocks.Count; i++)
+            {
+                string text = blocks[i];
+                <MudItem xs="12" sm="6" md="4" Class="@($"_fadeIn{i + 1}")" Style="opacity:0;">
+                    <MudPaper Elevation="2" Class="pa-4 overflow-hidden d-flex justify-center align-center" Height="200px">
+                        <MudIcon Class="mr-2" Color="Color.Primary" Icon="@GetIconForIndex(i + 1)" Title="Icon" />
+                        <MudText Style="font-size: calc(1vw + 2vh);text-align:center;">@text</MudText>
+                    </MudPaper>
+                </MudItem>
+            }
+        }
+    </MudGrid>
+</MudContainer>
+
+@code {
+    private Json? data;
+    private List<string> blocks = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        data = await Http.GetFromJsonAsync<Json>("json/home.json");
+        if (data != null)
+        {
+            blocks = new List<string>
+            {
+                data.text.first,
+                data.text.second,
+                data.text.fourth,
+                data.text.fifth,
+                data.text.sixth
+            };
+        }
+    }
+
+    private string GetIconForIndex(int index)
+    {
+        switch (index)
+        {
+            case 4:
+                return Icons.Material.Outlined.EmojiEvents;
+            case 5:
+                return Icons.Material.Outlined.Interests;
+            case 6:
+                return Icons.Material.Outlined.VideogameAsset;
+            default:
+                return Icons.Material.Outlined.HelpOutline;
+        }
+    }
+
+    public class Json
+    {
+        public string title { get; set; } = string.Empty;
+        public TextData text { get; set; } = new TextData();
+        public ImagesData images { get; set; } = new ImagesData();
+    }
+
+    public class TextData
+    {
+        public string first { get; set; } = string.Empty;
+        public string second { get; set; } = string.Empty;
+        public string fourth { get; set; } = string.Empty;
+        public string fifth { get; set; } = string.Empty;
+        public string sixth { get; set; } = string.Empty;
+    }
+
+    public class ImagesData
+    {
+        public string third { get; set; } = string.Empty;
+    }
+}

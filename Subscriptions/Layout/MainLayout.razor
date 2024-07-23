@@ -1,0 +1,63 @@
+﻿@inherits LayoutComponentBase
+
+<MudThemeProvider @bind-IsDarkMode="@_isDarkMode" Theme="theme" />
+<MudSnackbarProvider />
+
+<MudLayout>
+    <MudAppBar Elevation="0" Gutters="false" Fixed="true" Class="pl-1 pr-1">
+        <MudToggleIconButton @bind-Toggled="@_drawerOpen" Icon="@Icons.Material.Filled.Menu" />
+        <MudSpacer />
+        <MudSwitch @bind-Value="_isDarkMode" ThumbIcon="@(_isDarkMode==true ? @Icons.Material.Filled.DarkMode : @Icons.Material.Filled.LightMode)" ThumbIconColor="@(_isDarkMode==true ? Color.Primary : Color.Primary)" />
+        <MudIconButton Href="https://github.com/98thrxse" Icon="@Icons.Custom.Brands.GitHub" />
+    </MudAppBar>
+    <MudDrawer ClipMode="@DrawerClipMode.Always" @bind-Open="@_drawerOpen" Variant="@DrawerVariant.Mini" OpenMiniOnHover="true">
+        <NavMenu />
+    </MudDrawer>
+    <MudMainContent>
+        <MudContainer Class="d-flex flex-column align-center">
+            @Body
+        </MudContainer>
+    </MudMainContent>
+</MudLayout>
+
+@code {
+    private bool _isDarkMode = true;
+    private bool _drawerOpen = false;
+
+    MudTheme theme = new MudTheme()
+    {
+
+        PaletteLight = new PaletteLight()
+        {
+            Primary = Colors.Amber.Darken4,
+            Background = Colors.Gray.Lighten4,
+            AppbarBackground = Colors.Gray.Lighten4,
+            DrawerBackground = Colors.Shades.White,
+            Surface = Colors.Shades.White,
+            DrawerIcon = Colors.Gray.Darken2,
+            DrawerText = Colors.Gray.Darken2,
+            TextPrimary = Colors.Gray.Darken2,
+            HoverOpacity = 0.1
+        },
+
+        PaletteDark = new PaletteDark()
+        {
+            Primary = Colors.Amber.Darken4,
+            Background = Colors.Shades.Black,
+            AppbarBackground = Colors.Shades.Black,
+            DrawerBackground = Colors.Gray.Darken4,
+            Surface = Colors.Gray.Darken4,
+            DrawerIcon = Colors.Gray.Default,
+            DrawerText = Colors.Gray.Default,
+            TextPrimary = Colors.Gray.Lighten2,
+            HoverOpacity = 0.1
+        },
+
+        LayoutProperties = new LayoutProperties()
+        {
+            AppbarHeight = "64px",
+            DrawerMiniWidthLeft = "64px",
+            DrawerWidthLeft = "240px",
+        }
+    };
+}

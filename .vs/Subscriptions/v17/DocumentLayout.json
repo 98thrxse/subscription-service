@@ -1,0 +1,324 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Files\\Work\\Subscriptions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|d:\\files\\work\\subscriptions\\subscriptions\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|solutionrelative:subscriptions\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|d:\\files\\work\\subscriptions\\subscriptions\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|solutionrelative:subscriptions\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|d:\\files\\work\\subscriptions\\subscriptions\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|solutionrelative:subscriptions\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|d:\\files\\work\\subscriptions\\subscriptions\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|solutionrelative:subscriptions\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|d:\\files\\work\\subscriptions\\subscriptions\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|solutionrelative:subscriptions\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|d:\\files\\work\\subscriptions\\subscriptions\\pages\\password.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|solutionrelative:subscriptions\\pages\\password.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|d:\\files\\work\\subscriptions\\subscriptions\\wwwroot\\json\\home.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|solutionrelative:subscriptions\\wwwroot\\json\\home.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|d:\\files\\work\\subscriptions\\subscriptions\\wwwroot\\json\\error.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|solutionrelative:subscriptions\\wwwroot\\json\\error.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|d:\\files\\work\\subscriptions\\subscriptions\\wwwroot\\json\\pricing.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|solutionrelative:subscriptions\\wwwroot\\json\\pricing.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|d:\\files\\work\\subscriptions\\subscriptions\\wwwroot\\json\\password.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|solutionrelative:subscriptions\\wwwroot\\json\\password.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|d:\\files\\work\\subscriptions\\subscriptions\\pages\\pricing.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|solutionrelative:subscriptions\\pages\\pricing.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|d:\\files\\work\\subscriptions\\subscriptions\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|solutionrelative:subscriptions\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|d:\\files\\work\\subscriptions\\subscriptions\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|solutionrelative:subscriptions\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|d:\\files\\work\\subscriptions\\subscriptions\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|solutionrelative:subscriptions\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|d:\\files\\work\\subscriptions\\subscriptions\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|solutionrelative:subscriptions\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|d:\\files\\work\\subscriptions\\subscriptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|solutionrelative:subscriptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|d:\\files\\work\\subscriptions\\subscriptions\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F42624DA-FEEF-4CC5-B98E-7AA6F0E4AC48}|Subscriptions\\Subscriptions.csproj|solutionrelative:subscriptions\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Files\\Work\\Subscriptions\\Subscriptions\\wwwroot\\sample-data\\weather.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Subscriptions\\wwwroot\\sample-data\\weather.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Subscriptions\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Subscriptions\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T14:45:28.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "error.json",
+              "DocumentMoniker": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\wwwroot\\json\\error.json",
+              "RelativeDocumentMoniker": "Subscriptions\\wwwroot\\json\\error.json",
+              "ToolTip": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\wwwroot\\json\\error.json",
+              "RelativeToolTip": "Subscriptions\\wwwroot\\json\\error.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T14:45:18.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Password.razor",
+              "DocumentMoniker": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\Pages\\Password.razor",
+              "RelativeDocumentMoniker": "Subscriptions\\Pages\\Password.razor",
+              "ToolTip": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\Pages\\Password.razor",
+              "RelativeToolTip": "Subscriptions\\Pages\\Password.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T01:13:57.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "home.json",
+              "DocumentMoniker": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\wwwroot\\json\\home.json",
+              "RelativeDocumentMoniker": "Subscriptions\\wwwroot\\json\\home.json",
+              "ToolTip": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\wwwroot\\json\\home.json",
+              "RelativeToolTip": "Subscriptions\\wwwroot\\json\\home.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T22:26:26.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Subscriptions\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Subscriptions\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T03:01:10.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Subscriptions\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Subscriptions\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T22:32:03.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "password.json",
+              "DocumentMoniker": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\wwwroot\\json\\password.json",
+              "RelativeDocumentMoniker": "Subscriptions\\wwwroot\\json\\password.json",
+              "ToolTip": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\wwwroot\\json\\password.json",
+              "RelativeToolTip": "Subscriptions\\wwwroot\\json\\password.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T14:45:15.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.css",
+              "DocumentMoniker": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "Subscriptions\\wwwroot\\css\\app.css",
+              "ToolTip": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "Subscriptions\\wwwroot\\css\\app.css",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAE8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-19T23:49:21.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Subscriptions\\wwwroot\\index.html",
+              "ToolTip": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\wwwroot\\index.html",
+              "RelativeToolTip": "Subscriptions\\wwwroot\\index.html",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-19T22:44:30.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pricing.razor",
+              "DocumentMoniker": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\Pages\\Pricing.razor",
+              "RelativeDocumentMoniker": "Subscriptions\\Pages\\Pricing.razor",
+              "ToolTip": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\Pages\\Pricing.razor",
+              "RelativeToolTip": "Subscriptions\\Pages\\Pricing.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T14:48:43.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Subscriptions\\Pages\\Home.razor",
+              "ToolTip": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\Pages\\Home.razor",
+              "RelativeToolTip": "Subscriptions\\Pages\\Home.razor",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T22:05:16.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "pricing.json",
+              "DocumentMoniker": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\wwwroot\\json\\pricing.json",
+              "RelativeDocumentMoniker": "Subscriptions\\wwwroot\\json\\pricing.json",
+              "ToolTip": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\wwwroot\\json\\pricing.json",
+              "RelativeToolTip": "Subscriptions\\wwwroot\\json\\pricing.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T22:45:58.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\App.razor",
+              "RelativeDocumentMoniker": "Subscriptions\\App.razor",
+              "ToolTip": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\App.razor",
+              "RelativeToolTip": "Subscriptions\\App.razor",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T18:36:43.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\_Imports.razor",
+              "RelativeDocumentMoniker": "Subscriptions\\_Imports.razor",
+              "ToolTip": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\_Imports.razor",
+              "RelativeToolTip": "Subscriptions\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T14:48:09.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Subscriptions\\Layout\\MainLayout.razor.css",
+              "ToolTip": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "Subscriptions\\Layout\\MainLayout.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-18T22:45:28.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\Program.cs",
+              "RelativeDocumentMoniker": "Subscriptions\\Program.cs",
+              "ToolTip": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\Program.cs",
+              "RelativeToolTip": "Subscriptions\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:48:05.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "Subscriptions\\Layout\\NavMenu.razor.css",
+              "ToolTip": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "Subscriptions\\Layout\\NavMenu.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-18T22:32:02.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "weather.json",
+              "DocumentMoniker": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\wwwroot\\sample-data\\weather.json",
+              "RelativeDocumentMoniker": "Subscriptions\\wwwroot\\sample-data\\weather.json",
+              "ToolTip": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\wwwroot\\sample-data\\weather.json",
+              "RelativeToolTip": "Subscriptions\\wwwroot\\sample-data\\weather.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T03:01:12.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

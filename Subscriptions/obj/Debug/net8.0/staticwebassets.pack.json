@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\obj\\Debug\\net8.0\\compressed\\s5w14uvyzf.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Subscriptions.styles.css",
+      "PackagePath": "staticwebassets\\Subscriptions.styles.css"
+    },
+    {
+      "Id": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\wwwroot\\img\\person.png",
+      "PackagePath": "staticwebassets\\img\\person.png"
+    },
+    {
+      "Id": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\wwwroot\\json\\error.json",
+      "PackagePath": "staticwebassets\\json\\error.json"
+    },
+    {
+      "Id": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\wwwroot\\json\\home.json",
+      "PackagePath": "staticwebassets\\json\\home.json"
+    },
+    {
+      "Id": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\wwwroot\\json\\password.json",
+      "PackagePath": "staticwebassets\\json\\password.json"
+    },
+    {
+      "Id": "D:\\Files\\Work\\Subscriptions\\Subscriptions\\wwwroot\\json\\pricing.json",
+      "PackagePath": "staticwebassets\\json\\pricing.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Subscriptions.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Subscriptions.props",
+      "PackagePath": "build\\Subscriptions.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Subscriptions.props",
+      "PackagePath": "buildMultiTargeting\\Subscriptions.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Subscriptions.props",
+      "PackagePath": "buildTransitive\\Subscriptions.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Home",
+  "text": {
+    "first": "Welcome to",
+    "second": "[Your Website Name]!",
+    "fourth": "Exclusive",
+    "fifth": "Interactive",
+    "sixth": "Engaging"
+  },
+  "images": {
+    "third": "img/person.png"
+  }
+}
